@@ -2,6 +2,6 @@ return {
   status = "on",
   version = "1.1",
   force_update = true,
-  update_url = "https://raw.githubusercontent.com/Fahim558/Project-1/main/%238%5BFast-Decrypt%5D_%F0%9D%90%88%F0%9D%90%A1'%F0%9D%90%85%F0%9D%90%9A%F0%9D%90%A1%F0%9D%90%A2.lua",
-  changelog = "✅ Version 1.1: Auto update & overwrite working"
+  update_url = "https://raw.githubusercontent.com/Fahim558/Project-1/main/#8[Fast-Decrypt]_𝐈𝐭'𝐱_𝐅𝐚𝐡𝐢𝐦.lua",
+  changelog = "✅ Version 1.1: Auto update, overwrite supported"
 }
