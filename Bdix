@@ -1,70 +1,70 @@
 proxies:
-  - name: "1"
+  - name: "🅑🅓 ➋⓿"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "2"
+  - name: "🅑🅓 ➋➊"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "3"
+  - name: "🅑🅓 ➋➋"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "4"
+  - name: "🅑🅓 ➋➌"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "5"
+  - name: "🅑🅓 ➋➍"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "6"
+  - name: "🅑🅓 ➋➎"
     tyoe: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "7"
+  - name: "🅑🅓 ➋➌"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "8"
+  - name: "🅑🅓 ➋➍"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "9"
+  - name: "🅑🅓 ➋➎"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "10"
+  - name: "🅑🅓 ➋➏"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "11"
+  - name: "🅑🅓 ➋➐"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "12"
+  - name: "🅑🅓 ➋➑"
     type: socks5
     server: 1.1.1.1
     port: 11011
     
-  - name: "13"
+  - name: "🅑🅓 ➋➒"
     type: socks5
     server: 1.1.1.1
     port: 11011
 
-  - name: "14"
+  - name: "🅑🅓 ➌⓿"
     type: socks5
     server: 1.1.1.1
     port: 11011
