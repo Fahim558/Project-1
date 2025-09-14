@@ -1,0 +1,70 @@
+proxies:
+  - name: "1"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "2"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "3"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "4"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "5"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "6"
+    tyoe: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "7"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "8"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "9"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "10"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "11"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "12"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+    
+  - name: "13"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+
+  - name: "14"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
